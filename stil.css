@@ -1,0 +1,73 @@
+@font-face {
+    font-family:'KresimiraTopic_1';
+    src: url(FONT/KresimiraTopic_1.ttf);
+}
+
+
+body {
+    background-image: url(SLIKE/0.jpg);
+}
+
+p {
+    color:rgb(73, 6, 70);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    line-height: 30px;
+    background-color: rgba(223, 177, 207, 0.572);
+    padding: 20px;
+    font-weight: bold;
+   
+
+    }
+
+    h1 {
+        font-family:'KresimiraTopic_1';
+        color: rgb(74, 16, 41);
+        font-size: 60px;
+        text-align: center;
+    }
+
+    h2 {
+        font-family: 'Courier New', Courier, monospace;
+        color: rgb(112, 14, 69);
+        font-weight: bold;
+        text-align: center;
+        font-size: 40px;
+    }
+
+    a:link {
+        color: rgb(26, 88, 107);
+        background-color: rgb(173, 91, 118);
+        padding: 7px;
+        line-height: 50px;
+        border: 1px solid #000000;
+        
+    
+    }
+
+    a:hover {
+        background-color: rgb(164, 129, 151);
+        
+    }
+
+    .dva {
+        background-color: rgba(150, 88, 134, 0.435);
+        font-family: 'Courier New', Courier, monospace;
+        color: rgb(67, 3, 45);
+        line-height: 18px;
+        
+    }
+    
+    .noviblok {
+        background-color: rgba(227, 182, 210, 0.5);
+        padding: 30px;
+        margin: 30px;
+        font-weight: bold;
+        
+    }
+
+    li {
+        display: inline;
+        
+      }
+
